@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/projektieren-logo.svg" alt="Projektieren Logo" width="330"/>
+  <img src="media/projektieren.png" alt="Projektieren Logo" width="330"/>
 </p>
 
 <p align="center">
@@ -230,10 +230,6 @@ The Kanban board and logo automatically adapt to your VS Code theme:
 The extension uses VS Code's CSS variables to seamlessly match your editor's appearance.
 
 ---
-
-<p align="center">
-  <img src="media/projektieren-logo.svg" alt="Projektieren" width="200"/>
-</p>
 
 <p align="center">
   Built with ❤️ by william fabre

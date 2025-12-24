@@ -3,7 +3,12 @@
   "displayName": "Projektieren",
   "description": "AI Agent Task Manager - Kanban board for managing tasks with MCP integration for Cursor agents",
   "version": "0.1.0",
-  "publisher": "projektieren",
+  "publisher": "Fabre",
+  "icon": "media/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FabrWill/projektieren"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
